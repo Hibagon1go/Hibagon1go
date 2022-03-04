@@ -9,3 +9,5 @@
 --「__Django Baby__ ([django.baby](https://django.baby))」  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 --「__mros2__ ([github.com/mROS-base/mros2](https://github.com/mROS-base/mros2))」.
+
+For more information about me, please check [__my resume__](https://github.com/Hibagon1go/MyResume/blob/main/Yoichiro_Hibara_Resume_for_Google.pdf).
