@@ -5,6 +5,7 @@
 🌱 My major is __Information Science and Technology__. 
 
 🔭 I’m currently working on
+- 「__CTO of YEConnect,Inc.__ ([ye-connect.com](https://ye-connect.com/))」 
 - 「__カテアプリ東大生__ ([kate-app.com](https://kate-app.com))」  
 - 「__Django Baby__ ([django.baby](https://django.baby))」
 
